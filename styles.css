@@ -1,1 +1,13 @@
 
+body{
+  border-style: solid;
+
+}
+p{
+  margin: 0;
+}
+
+
+ul{
+  list-style-position: inside;
+}
