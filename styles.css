@@ -1,13 +1,35 @@
-
-body{
-  border-style: solid;
-
-}
-p{
-  margin: 0;
+body {
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 25px;
+  background-color: #fff3cc;
 }
 
+header {
+  text-align: center;
+  border-bottom: solid black 2px;
+  padding-bottom: 40px;
+}
+header h3,
+h4 {
+  margin: auto;
+}
 
-ul{
-  list-style-position: inside;
+div h4 {
+  text-align: center;
+}
+
+div h3 {
+  text-align: center;
+}
+
+.education {
+  margin-top: 10px;
+}
+
+img {
+  float: left;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
